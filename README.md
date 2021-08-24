@@ -20,7 +20,7 @@ component library in StoryBook.
     - which includes [real time development](https://sketch2react.io/blog/how-to-do-real-time-component-development-with-sketch-stratos-storybook/)
 3. Or manually both ways.      
 
-Other tools and add-ons:
+Other tools and Storybook add-ons:
 
 - addon-essentials
   - docs<br>
@@ -40,9 +40,7 @@ Other tools and add-ons:
 - https://reaviz.io/?path=/story/docs-intro--page
 - https://monospaced.com/design-system/?path=/docs/introduction--page 
 
-
-
 ## Create React App
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In Typescript. 
 
 ### `yarn create react-app my-app --template typescript`
